@@ -1,0 +1,154 @@
+
+.navbar{
+    background-color: black ;
+line-height: 25px;
+word-spacing: 20px;
+text-align: justify;
+}
+img.apple{
+    width: 30px;
+    height: 30px;
+}
+img.search,img.bag{
+    width: 20px;
+    height: 20px;
+}
+p.navbarlist{
+    color: white;
+}
+.iphone{
+    padding: 30px;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    color: white;
+    text-align: center;
+    background-image: url(Images/iphone\ 15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+.iphone2{
+  padding: 30px ;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(Images/iphone\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+#logo{
+    height: 20px;
+    width: 30px;
+}
+
+.watch{
+    padding: 30px ;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(Images/watch\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 20px;
+   color: white;
+}
+
+.ipad{
+    padding: 30px ;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(Images/ipaad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 20px;
+   color: white;
+}
+
+#m2{
+    height: 20px;
+    width: 20px;
+}
+
+.mac{
+
+    padding: 20px ;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-image: url(Images/macbook.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    margin-bottom: 20px;
+   color: rgb(0, 0, 0);
+   
+}
+
+
+.man{
+    padding: 100px ;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(Images/man.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    margin-bottom: 20px;
+   color: white;
+}
+
+
+#abc{
+    width: 30px;
+    height: 20px;
+}
+
+.pods{
+    padding: 30px ;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(Images/airpods.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    /* margin-bottom: 20px; */
+    color: white;
+   
+}
+.twophone{
+    background-image: url(Images/two\ phone.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: black;
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
